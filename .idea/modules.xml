@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/debug-genetic/debug-genetic.iml" filepath="$PROJECT_DIR$/debug-genetic/debug-genetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genetic.iml" filepath="$PROJECT_DIR$/genetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geneticlib/geneticlib.iml" filepath="$PROJECT_DIR$/geneticlib/geneticlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug-genetic/target/maven-archiver/maven-archiver (1).iml" filepath="$PROJECT_DIR$/debug-genetic/target/maven-archiver/maven-archiver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/geneticlib/target/maven-archiver/maven-archiver (2).iml" filepath="$PROJECT_DIR$/geneticlib/target/maven-archiver/maven-archiver (2).iml" />
+    </modules>
+  </component>
+</project>
